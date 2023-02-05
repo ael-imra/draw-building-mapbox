@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StatisticsModal should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-container css-1mt2vs5-MuiGrid-root"
+  >
+    <div
+      class="MuiGrid-root css-18cuka8-MuiGrid-root"
+    >
+      Statistics
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container css-39fura-MuiGrid-root"
+      data-testid="statisticsItem"
+    >
+      Land Area 
+      <span>
+        1000
+      </span>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container css-39fura-MuiGrid-root"
+      data-testid="statisticsItem"
+    >
+      Building Area 
+      <span>
+        2000
+      </span>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container css-39fura-MuiGrid-root"
+      data-testid="statisticsItem"
+    >
+      Building Floor Area 
+      <span>
+        3000
+      </span>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container css-39fura-MuiGrid-root"
+      data-testid="statisticsItem"
+    >
+      Volume 
+      <span>
+        4000
+      </span>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container css-39fura-MuiGrid-root"
+      data-testid="statisticsItem"
+    >
+      Building Height 
+      <span>
+        5000
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;
